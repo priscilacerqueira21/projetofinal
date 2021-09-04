@@ -5,7 +5,11 @@
 body {
     margin: 0;
     font: normal ,arial,verdana,serif;
-    background-color: rgb(36, 36, 233);
-    background-image: url(principes-removebg-preview.png);
+    width: 80vw;
+    height: 80vh;
     background-repeat: no-repeat;
+    background-size: contain;
+    background: rgb(0, 0, 204) url(principes-removebg-preview.png) ;
+    background-repeat: no-repeat;
+    background-position:center;
  }
