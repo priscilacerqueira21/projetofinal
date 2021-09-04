@@ -7,10 +7,10 @@ function escolha() {
     }
 
     if (pergunta == 1) {
-        window.location.replace('./vocevenceuray.html')
+        window.location.replace('gameovercharlote.html')
     }
     else {
-        window.location.replace('./gameover.html')
+        window.location.replace('vocevenceu.html')
     }
 
 }
