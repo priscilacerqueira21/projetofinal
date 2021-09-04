@@ -9,6 +9,6 @@ function escolha() {
             window.location.replace('fase2louis.html')
         }
         else {
-            window.location.replace('./gameover.html')
+            window.location.replace('gameoverlouis.html')
         }
     } 
